@@ -1,2 +1,2 @@
-writing a script
+#!/bin/bash
 echo "Hello, World"
